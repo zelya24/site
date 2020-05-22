@@ -1,0 +1,65 @@
+.first{
+	width: 0 auto;
+	height: 0 auto;
+ }
+
+.head{
+	width: 100%;
+	height: 100%;
+}
+
+.inform {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.information {
+	background-color: black;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-family: Bradley Hand, cursive;
+	font-style: italic;
+	text-align: center;
+}
+
+.myphotos {
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.pics {
+	background-color: black;
+	text-align: center;	
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.playlist {
+	background-color: white;
+	text-align: center;	
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.music {
+	background-color: black;
+	font-family: Bradley Hand, cursive;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+.contacts {
+	background-color: white;
+	text-align: center;	
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.soc {
+	background-color: black;
+	text-align: center;
+	}
